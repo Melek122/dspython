@@ -1,0 +1,11 @@
+ibrsi2 = BibDeClasse()
+bibrsi2.ajouter(tintin1)
+bibrsi2.ajouter(tintin2)
+bibrsi2.ajouter(hp)
+bibrsi2.ajouter(tintin1)
+bibrsi2.supprimer(tintin1)
+bibrsi2.supprimer(tintin1)
+bibrsi2.ajouter(tintin1)
+print()
+bibrsi2.afficher()
+
